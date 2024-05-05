@@ -87,6 +87,8 @@ santi.print_aboutme()
 </table>
 
 # 📊 GitHub Stats:
+<img align='right' src='https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif' width='200"'>
+
 ![](https://github-readme-stats.vercel.app/api?username=santiagoorozcor&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=santiagoorozcor&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagoorozcor&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
