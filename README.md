@@ -6,7 +6,7 @@ class AboutMe:
         self.name = "Santiago Orozco"
         self.role = "Data Engineer"
         self.last_education = "B.S. Mechatronics Engineering"
-        self.industries_worked = ["AI-Fashion", "Finance"]
+        self.industries_worked = ["Retail", "AI-Fashion", "Finance"]
 
     def print_aboutme(self):
         print(
@@ -22,8 +22,6 @@ class AboutMe:
             "AWS certification",
             "GCP certification",
             "Improve skills in Apache Spark",
-            "Learn Apache Iceberg",
-            "Deepen knowledge in Scala"
         ]
 
 
